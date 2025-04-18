@@ -22,19 +22,19 @@ This plugin enforces a consistent and readable order of JSX props in your React 
 ## 📦 Installation
 
 ```bash
-npm install --save-dev eslint-plugin-jsx-props-sorter
+npm install --save-dev eslint-plugin-react-jsx-props-sorter
 ```
 
 or
 
 ```bash
-yarn add --dev eslint-plugin-jsx-props-sorter
+yarn add --dev eslint-plugin-react-jsx-props-sorter
 ```
 
 or
 
 ```bash
-pnpm add -D eslint-plugin-jsx-props-sorter
+pnpm add -D eslint-plugin-react-jsx-props-sorter
 ```
 
 ## 🛠 Configuration
@@ -153,7 +153,7 @@ const handleClick = () => {
 
 ## 👤 Author
 
-Gabriel Felipe Cegatta dos Santos
+[Gabriel Felipe Cegatta dos Santos](https://github.com/gabrielfcs)
 
 ## 📄 License
 

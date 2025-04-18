@@ -3,9 +3,28 @@
   "version": "1.0.0",
   "description": "ESLint plugin to sort JSX props by type and length",
   "main": "index.js",
-  "author": "Gabriel Felipe Cegatta dos Santos",
+  "author": "Gabriel Felipe Cegatta dos Santos <https://github.com/gabrielfcs>",
   "license": "MIT",
   "type": "commonjs",
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "eslint-plugin-jsx",
+    "jsx",
+    "react",
+    "props",
+    "props-order",
+    "sort-props",
+    "eslint-react",
+    "eslint-plugin-react",
+    "code-style",
+    "formatter",
+    "jsx-props",
+    "react-props",
+    "linter",
+    "code-quality",
+    "eslint-rule"
+  ],
   "peerDependencies": {
     "eslint": "^9.0.0"
   }
