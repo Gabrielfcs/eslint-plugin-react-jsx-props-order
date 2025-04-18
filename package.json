@@ -1,0 +1,12 @@
+{
+  "name": "eslint-plugin-react-jsx-props-order",
+  "version": "1.0.0",
+  "description": "ESLint plugin to sort JSX props by type and length",
+  "main": "index.js",
+  "author": "Gabriel Felipe Cegatta dos Santos",
+  "license": "MIT",
+  "type": "commonjs",
+  "peerDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
